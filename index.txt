@@ -3,7 +3,9 @@
 print ("ola mundo");
 
 
-essa porra não funciona mais que saco 
+estava com raiva que não dava certo mas agora foi ainda bem 
+
+ignora o palavrão 
 
 
 
